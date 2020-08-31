@@ -1,18 +1,16 @@
-### Hi there 👋 
+# Hello! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Raúl%20Piracés%20Alastuey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-savkin/)](https://www.linkedin.com/in/andre-savkin/)
+[![Mail Badge](https://img.shields.io/badge/-andre.v.sav@gmail.com-8B89CC?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:andre.v.sav@gmail.com)](mailto:andre.v.sav@gmail.com)
 
-### Welcome to my profile
+### I am Andre Savkin
 
-<!--
-**andre-sav/andre-sav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :bulb: I'm a data professional who is passionate about predictive analytics, cloud computing, and open source software.
 
-Here are some ideas to get you started:
+- :mortar_board: I'm constantly learning about new data tools and brainstorming personal projects. When possible, I enjoy frequenting tech related events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :chart_with_upwards_trend: I love video games and I'm ranked as belonging to the top 3% of players in Call of Duty.
+
+- :inbox_tray: Reach me by email or linked-in. 
+
+## Github Stats
+![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andre-sav&show_icons=true)
