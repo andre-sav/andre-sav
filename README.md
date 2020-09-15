@@ -11,6 +11,3 @@
 - :chart_with_upwards_trend: I love video games and I'm ranked as belonging to the top 3% of players in Call of Duty.
 
 - :inbox_tray: Reach me by the email or LinkedIn badges above. 
-
-## Github Stats
-![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andre-sav&show_icons=true)
